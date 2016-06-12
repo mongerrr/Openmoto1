@@ -1,5 +1,5 @@
 module plate(){
-    import("/Users/aaron/Documents/plate\ model/smooth.stl", convexity=3);
+    import("/Users/aaron/Documents/plate\ model/mockup.stl", convexity=3);
 };
 
 module mount(){
