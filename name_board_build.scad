@@ -1,5 +1,5 @@
 module plate(){
-    import("/Users/aaron/Documents/plate\ model/mockup.stl", convexity=3);
+    import("source.stl", convexity=3);
 };
 
 module mount(){
@@ -92,20 +92,20 @@ translate([-250,fw,fz])rotate([0,89.5,0])cylinder(h=500,r1=19.5,r2=19.5,centre=t
 translate([-35,0,-0.5])pen();
 hull(){
   translate([45,25,27.8])sphere(r=2);
-  translate([45,25,20])sphere(r=2);  
+  translate([45,25,20])sphere(r=2);
      translate([46,25,19])sphere(r=1);
     translate([44,25,19])sphere(r=1);
  };
 hull(){
   translate([45,-25,27.8])sphere(r=2);
-  translate([45,-25,20])sphere(r=2);  
+  translate([45,-25,20])sphere(r=2);
      translate([46,-25,19])sphere(r=1);
     translate([44,-25,19])sphere(r=1);
  };
  hull(){
   translate([46,25,19])sphere(r=1);
-  translate([46,-25,19])sphere(r=1); 
+  translate([46,-25,19])sphere(r=1);
     translate([44,25,19])sphere(r=1);
-  translate([44,-25,19])sphere(r=1);  
+  translate([44,-25,19])sphere(r=1);
  };
 };
