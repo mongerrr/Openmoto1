@@ -1,3 +1,8 @@
+//Licensed under the TAPR Open Hardware License (www.tapr.org/OHL)
+//This model created by Aaron Monger (amonger@gmail.com)
+//For this model and more new designs, visit mongerrr.github.io
+//If you would like to support the design of parts like these, please make a donation, however big or small at paypal.me/mongerrr
+
 module plate(){
     import("source.stl", convexity=3);
 };
