@@ -8,7 +8,7 @@ If you have any suggestions, feedback, or pictures of your 3D print, feel free t
 ### Instructions For Printing
 If you would just like to 3d print this part, use the "name_board_final.stl" file. If you don't have your own 3D printer, I would recommend using 3dhubs.com, as you can get good quality prints for a reasonable price.
 
-If you would like someone else to organise the printing and materials for you, please contact me at [amonger@gmail.com](mailto:amonger@gmail.com) and I can arrange that for you for a small fee ($5 or 10%, whichever is greater). A variety of materials can be printed including, PLA, ABS, Polycarbonate, Carbon Fibre and others.
+If you would like someone else to organise the printing and materials for you, please contact me at [amonger@gmail.com](mailto:amonger@gmail.com) and I can arrange that for you for a small fee ($5 or 10% of the printing price, whichever is greater). A variety of materials can be printed including, PLA, ABS, Polycarbonate, Carbon Fibre and others.
 
 *In the coming weeks, I will add some comments about materials I have tried. I currently have an ABS plastic piece, and I am currently waiting on copies in PLA and Carbon Fibre*
 
