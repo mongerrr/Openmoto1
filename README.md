@@ -34,3 +34,5 @@ In the future, I do intend on creating more designs for a variety of bikes inclu
 If yo would like to become a collaborator and share your designs alongside me, contact me at [amonger@gmail.com](mailto:amonger@gmail.com)
 
 If you would like to support the design of parts like these, please make a donation, however big or small at [paypal.me/mongerrr](paypal.me/mongerrr)
+
+[![Analytics](https://ga-beacon.appspot.com/UA-79603429-2/projects/)](https://github.com/mongerrr/Openmoto1)
