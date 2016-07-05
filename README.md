@@ -1,4 +1,4 @@
-# Openmoto Trials Name Board
+# OpenMoto Trials Name Board
 
 The files in this folder can be used to 3D print a front name board for a trials bike. They are held on by cable ties around the front forks, and feature a set of loops to hold a pen and a bar clip a scorecard to, for when competing in a club trial. The geometry of the part will suit any preprinted graphics made for a Honda CRF50 2013+ template
 
@@ -28,7 +28,7 @@ Here are some pictures of a 3d printed part using this model;
 
 <script src="https://embed.github.com/view/3d/mongerrr/Openmoto/blob/trials-name-board/name_board_final.stl"></script>
 
-## About Openmoto
+## About OpenMoto
 In the future, I do intend on creating more designs for a variety of bikes including trials, mx, enduro and roadbikes. I also intend for these designs to be distributed freely, with the option for people to get me to organise 3D printing for a small fee. For this model and more new designs, visit [mongerrr.github.io](mongerrr.github.io)
 
 If yo would like to become a collaborator and share your designs alongside me, contact me at [amonger@gmail.com](mailto:amonger@gmail.com)

@@ -1,3 +1,4 @@
+//OpenMoto Trials Namwe Board
 //Licensed under the TAPR Open Hardware License (www.tapr.org/OHL)
 //This model created by Aaron Monger (amonger@gmail.com)
 //For this model and more new designs, visit mongerrr.github.io
