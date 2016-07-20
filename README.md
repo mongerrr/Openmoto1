@@ -26,7 +26,23 @@ Here are some pictures of a 3d printed part using this model;
 
 *To be added soon*
 
-<script src="https://embed.github.com/view/3d/mongerrr/Openmoto/blob/trials-name-board/name_board_final.stl"></script>
+The overall 3D design
+
+![3D model](https://github.com/mongerrr/mongerrr.github.io/raw/master/resources/2016-07-16-trials-name-board/3d_model.png)
+
+Here is photo of a name board on my bike
+
+![Mockup](https://github.com/mongerrr/mongerrr.github.io/raw/master/resources/2016-07-16-trials-name-board/mockup.jpg)
+
+A photo from a Wollongong MCC club trial.
+
+![Club Trial](https://github.com/mongerrr/mongerrr.github.io/raw/master/resources/2016-07-16-trials-name-board/club.jpg)
+
+A 3d print of the part showing the front and back. I will go into detail on this in a post on my blog. This one was printed in 2 parts and has a visible seam.
+
+![ABS Front](https://github.com/mongerrr/mongerrr.github.io/raw/master/resources/2016-07-16-trials-name-board/abs_front.jpg)
+
+![ABS Back](https://github.com/mongerrr/mongerrr.github.io/raw/master/resources/2016-07-16-trials-name-board/abs_back.jpg)
 
 ## About OpenMoto
 In the future, I do intend on creating more designs for a variety of bikes including trials, mx, enduro and roadbikes. I also intend for these designs to be distributed freely, with the option for people to get me to organise 3D printing for a small fee. For this model and more new designs, visit [mongerrr.github.io](mongerrr.github.io)
