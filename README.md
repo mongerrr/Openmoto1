@@ -36,6 +36,12 @@ A photo from a Wollongong MCC club trial.
 
 ![Club Trial](https://github.com/mongerrr/mongerrr.github.io/raw/master/resources/2016-07-16-trials-name-board/club.jpg)
 
+My latest carbon fibre reinforced PLA print
+
+![CF1](https://github.com/mongerrr/mongerrr.github.io/raw/master/resources/2016-08-23-trials-name-board-cf/cf1.jpg)
+
+![CF2](https://github.com/mongerrr/mongerrr.github.io/raw/master/resources/2016-08-23-trials-name-board-cf/cf2.jpg)
+
 A 3d print of the part showing the front and back. I will go into detail on this in a post on my blog. This one was printed in 2 parts and has a visible seam.
 
 ![ABS Front](https://github.com/mongerrr/mongerrr.github.io/raw/master/resources/2016-07-16-trials-name-board/abs_front.jpg)
