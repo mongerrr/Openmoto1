@@ -13,7 +13,7 @@ If you would like someone else to organise the printing and materials for you, p
 I have written a post on the OpenMoto blog about printing [here](http://mongerrr.github.io/2016-07-24-trials-name-board-printing/)
 
 ### Instructions For Modification
-If you think you would like to make some improvements to the design, feel free to make changes!
+If you would like to make some improvements to the design, feel free to make changes!
 To do this;
 - Use the download link to get all the files in this folder
 - Extract the files from the zip folder
@@ -51,6 +51,6 @@ A 3d print of the part showing the front and back. I will go into detail on this
 ## About OpenMoto
 In the future, I do intend on creating more designs for a variety of bikes including trials, mx, enduro and roadbikes. I also intend for these designs to be distributed freely, with the option for people to get me to organise 3D printing for a small fee. For this model and more new designs, visit [mongerrr.github.io](mongerrr.github.io)
 
-If yo would like to become a collaborator and share your designs alongside me, contact me at [amonger@gmail.com](mailto:amonger@gmail.com)
+If you would like to become a collaborator and share your designs alongside me, contact me at [amonger@gmail.com](mailto:amonger@gmail.com)
 
 If you would like to support the design of parts like these, please make a donation, however big or small at [paypal.me/mongerrr](paypal.me/mongerrr)
