@@ -8,10 +8,6 @@ If you have any suggestions, feedback, or pictures of your 3D print, feel free t
 ### Instructions For Printing
 If you would just like to 3d print this part, use the "name_board_final.stl" file. If you don't have your own 3D printer, I would recommend using 3dhubs.com, as you can get good quality prints for a reasonable price.
 
-If you would like someone else to organise the printing and materials for you, please contact me at [amonger@gmail.com](mailto:amonger@gmail.com) and I can arrange that for you for a small fee ($5 or 10% of the printing price, whichever is greater). A variety of materials can be printed including, PLA, ABS, Polycarbonate, Carbon Fibre and others.
-
-I have written a post on the OpenMoto blog about printing [here](http://mongerrr.github.io/2016-07-24-trials-name-board-printing/)
-
 ### Instructions For Modification
 If you would like to make some improvements to the design, feel free to make changes!
 To do this;
@@ -48,9 +44,4 @@ A 3d print of the part showing the front and back. I will go into detail on this
 
 ![ABS Back](https://github.com/mongerrr/mongerrr.github.io/raw/master/resources/2016-07-16-trials-name-board/abs_back.jpg)
 
-## About OpenMoto
-In the future, I do intend on creating more designs for a variety of bikes including trials, mx, enduro and roadbikes. I also intend for these designs to be distributed freely, with the option for people to get me to organise 3D printing for a small fee. For this model and more new designs, visit [mongerrr.github.io](mongerrr.github.io)
 
-If you would like to become a collaborator and share your designs alongside me, contact me at [amonger@gmail.com](mailto:amonger@gmail.com)
-
-If you would like to support the design of parts like these, please make a donation, however big or small at [paypal.me/mongerrr](paypal.me/mongerrr)
